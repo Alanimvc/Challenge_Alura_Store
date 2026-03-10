@@ -14,8 +14,6 @@ Desafio_ Alura Store
   <li>Insignias</li>
   <li>Descripción</li>
   <li>Índice</li>
-  <li>Funcionamiento</li>
-  <li>¿Cómo descargar el proyecto?</li>
   <li>Tcnologías empleadas</li>
   <li>Hecho por: </li>
   <li>Licencia</li>
