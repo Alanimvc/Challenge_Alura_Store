@@ -2,6 +2,7 @@
 Desafio_ Alura Store
 </h2>
 
+![Static Badge](https://img.shields.io/badge/Lenguaje-Python-yellow)
 ![Static Badge](https://img.shields.io/badge/Version-v1.0-%20blue)
 ![Static Badge](https://img.shields.io/badge/Fecha-Marzo-orange)
 ![Static Badge](https://img.shields.io/badge/Status-Finalizado-green)
@@ -22,7 +23,6 @@ Desafio_ Alura Store
 <h2>Tecnologías empleadas</h2>
 <h3><Tecnologías Usadas</h3>
   <ul>
-  <li>Python</li>
   <li>Google colab</li>
 </ul>
 
