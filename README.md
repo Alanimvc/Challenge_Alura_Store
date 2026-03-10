@@ -22,6 +22,7 @@ Desafio_ Alura Store
 <h3><Tecnologías Usadas</h3>
   <ul>
   <li>Google colab</li>
+  <li>Python</li>
 </ul>
 
 <h2>Hecho por</h2>
